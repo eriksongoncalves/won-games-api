@@ -17,3 +17,12 @@ Na pasta raiz
 ```
 docker-compose up
 ```
+
+<BR />
+
+## Populando dados
+Execute a aplicação e rode o comando no terminal.
+
+```
+curl -X POST http://localhost:1337/games/populate
+```

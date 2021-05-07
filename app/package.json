@@ -11,8 +11,10 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "jsdom": "^16.5.3",
     "knex": "0.21.18",
     "pg": "8.5.1",
+    "slugify": "^1.5.1",
     "strapi": "3.6.0",
     "strapi-admin": "3.6.0",
     "strapi-connector-bookshelf": "3.6.0",

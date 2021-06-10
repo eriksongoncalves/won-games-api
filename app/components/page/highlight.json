@@ -2,7 +2,8 @@
   "collectionName": "components_page_highlights",
   "info": {
     "name": "highlight",
-    "icon": "address-card"
+    "icon": "address-card",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -24,7 +25,7 @@
       "required": true,
       "pluginOptions": {}
     },
-    "floatMedia": {
+    "floatImage": {
       "model": "file",
       "via": "related",
       "allowedTypes": [

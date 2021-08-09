@@ -1,0 +1,6 @@
+app/.cache
+app/build
+app/node_modules
+app/.env
+aws
+docker
